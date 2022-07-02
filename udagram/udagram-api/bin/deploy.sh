@@ -1,4 +1,4 @@
-eb init udagram-api --platform node.js-16 --region us-east-1
+eb init udagram-api --platform node.js-14 --region us-east-1
 eb create udagram-api
 eb list
 eb use udagram-api
